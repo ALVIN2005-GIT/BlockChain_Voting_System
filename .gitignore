@@ -1,0 +1,21 @@
+# Ignore file sensitif
+.env
+deployedAddress.json
+
+# Ignore dependencies
+node_modules/
+artifacts/
+cache/
+
+# Ignore build output
+dist/
+out/
+build/
+
+# Ignore logs
+npm-debug.log
+yarn-error.log
+
+# Ignore editor config
+.vscode/
+.idea/
